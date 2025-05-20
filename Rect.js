@@ -35,7 +35,7 @@
 // Redux Toolkit
 
 // How to make React
-// use dependencies babel.js and webpack.js
+// using dependencies babel.js and webpack.js
 
 // Pure Components Vs ImpureComponents
 
