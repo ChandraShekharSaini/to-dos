@@ -1,4 +1,4 @@
-"Rect Js"
+"React Js"
 
 // props
 
